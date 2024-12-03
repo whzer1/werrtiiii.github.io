@@ -1,9 +1,8 @@
-# werrtiiii.github.io
 watch
 2^5
-#36984
-##nbsj
-##s
+# 36984
+## nbsj
+## s
 # 【深基2.习2】三角形面积
 
 ## 题目描述
